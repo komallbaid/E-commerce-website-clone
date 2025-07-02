@@ -84,6 +84,23 @@ To get a local copy of this project up and running on your machine, follow these
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-52BE80?style=for-the-badge&logo=font-awesome&logoColor=white)
 
+E-commerce-website-clone/
+└── Amazon Clone 
+      ├── AZclone.html            # Main HTML file
+      ├── Azclone.css             # CSS file for styling
+      ├── amazon_logo.png         # image of logo
+      ├── box1_image.jpg          # Image of box1
+      ├── box2_image.jpg          # Image of box2
+      ├── box3_image.jpg          # Image of box3
+      ├── box4_image.jpg          # Image of box4
+      ├── box5_image.jpg          # Image of box5
+      ├── box6_image.jpg          # Image of box6
+      ├── box7_image.jpg          # Image of box7
+      ├── box8_image.jpg          # Image of box8
+      ├── hero_image.jpg          # Image of hero section
+      
+
+
 ## Live Demo
 
 Experience the clone live here: https://github.com/komallbaid/E-commerce-website-clone/blob/main/Amazon%20Clone/AZclone.html
